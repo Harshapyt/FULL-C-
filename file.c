@@ -1,0 +1,1 @@
+/* write a c program to consider the following operation performe on a stck of size 5.*/
